@@ -1,0 +1,6 @@
+{
+  "name": "PREMIUM Clube de Benefícios",
+  "description": "Landing page profissional de proteção e seguro veicular premium com cotação rápida online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
